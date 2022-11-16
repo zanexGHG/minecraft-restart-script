@@ -5,7 +5,7 @@ You can run it on windows by downloading and installing the gitapp [here](https:
 
 # How to run:
 
-##Linux:
+## Linux:
 1: Drag start.sh and loop.sh into your minecraft server folder containing the server.jar.
 2: Use cd to get into your server folder in the console.
 3: execute "chmod 777 start.sh"
@@ -17,7 +17,7 @@ You can run it on windows by downloading and installing the gitapp [here](https:
 NOTICE: A single .jar file can ONLY use a maximum of 8 gigabytes of ram.
 8: To run your server, type: "./start.sh"
 
-##Windows:
+## Windows:
 1: Download and execute the git app installer.
 2: Go into your minecraft server folder.
 3: right click on an empty area and click on "Git Bash Here"!
