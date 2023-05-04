@@ -1,6 +1,6 @@
 # Simple restart script for Minecraft server on linux
 
-This is a simple automatic restart script for your minecraft server. (THIS ONLY WORKS ON LINUX OR MAC!!!)
+This is a simple automatic restart script for your minecraft server.
 You can run it on windows by downloading and installing the gitapp [here](https://git-scm.com/downloads).
 
 # How to run:
