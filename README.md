@@ -47,4 +47,4 @@ You can run it on windows by downloading and installing the gitapp [here](https:
 
 8: Search for the line "-Xms4G" in loop.sh and change the number. (G = Gigabytes and M = Megabytes incase you want to give it less then a gigabyte.)
 
-### NOTICE: A single java application file can ONLY use a maximum of 8 gigabytes of ram.
+### NOTICE: A single java application file can ONLY use up to 8GB of ram.
